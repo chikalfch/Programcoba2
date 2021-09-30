@@ -4,7 +4,7 @@ public class HelloWorld
 	{
 		int NIM = 6706213056;
 		string NAMA = "CHIKAL FACHDIANA";
-		float IPK = 3.50;
+		double IPK = 3.80;
 		
 		System.out.println(NIM);
 		System.out.println(NAMA);
